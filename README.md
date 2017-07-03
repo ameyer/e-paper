@@ -1,7 +1,7 @@
 # E-Paper Display
 Arduino code for sparkfun e-ink display https://www.sparkfun.com/products/retired/10150
 
-For complete hookup and tutorial see bildr.org: http://bildr.org/2011/06/epaper-arduino/
+For complete hookup and tutorial see: http://adam-meyer.com/arduino/e-paper
 
 The code is provided under the MIT license please use, edit, change, and share. 
 
